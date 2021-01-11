@@ -1,1 +1,1 @@
-I am a **Data Analyst** at [IBM](https://in.linkedin.com/company/ibm).
+I am a **Data Analyst** at [IBM](https://in.linkedin.com/company/ibm). I work in a team of data analysts who develop machine learning based solutions for business problems in the e-commerce domain. Our focus areas are price variation analysis and product-to-product similarity, which is related to content enrichment in a broader sense.
