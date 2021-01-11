@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Geeta Kumari
 plugins:
   - jekyll-seo-tag
