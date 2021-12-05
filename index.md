@@ -1,9 +1,11 @@
 I am a **Data Scientist** at [IBM](https://in.linkedin.com/company/ibm). I work in a team of data analysts who develop machine learning based solutions for business problems in the e-commerce domain. Our focus areas are price variation analysis and product-to-product similarity, which is related to content enrichment in a broader sense.
  	Profile
+
 Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. Developing novel data driven solutions to solve complex data problems in retail and e-commerce. Committed to helping companies advance by helping them to develop strategic plans based on predictive modelling and findings. Bringing forth a proven track record of analysing complex data sets.
- 	Employment History
-Data Analyst at IBM, Bengaluru
-April 2019 — Present
+ 
+Employment History
+	Data Analyst at IBM, Bengaluru
+	April 2019 — Present
 ●	Responsible for the development of analytics and machine learning based solutions.
 ●	Analysed how Pricing Activities overall affects retail & e-commerce business.
 ●	Worked on improving profitability by defining optimal prices and pricing strategies for a retail giant.
@@ -14,8 +16,9 @@ April 2019 — Present
 ●	Applied different algorithms and predictive models to derive insights and business value from data.
 ●	Working daily with Python, SQL and Git.
 ●	Becoming a buddy for a new team member to help them in their on-boarding process.
-SDET at TCS, Kolkata
-March 2013 — April 2019
+
+	SDET at TCS, Kolkata
+	March 2013 — April 2019
 ●	Worked proactively with Product Team to understand requirements and business specifications around Retail Banking.
 ●	Involved in the development of automated test script with Rest Assured and Selenium Web Driver and TestNG.
 ●	Involved in creation of the generic utility.
