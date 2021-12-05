@@ -26,18 +26,16 @@ Accomplished Data Scientist with a passion for delivering valuable data through 
 ●	Involved in creation of the generic utility.
 ●	Performed code reviews of peers.
 ●	Involved in design, implementation, testing and maintenance of features.
- 	Education
 ```
+## Education
+
 PGD AI-ML, International Institute of Information Technology, Bangalore 
 September 2019 — October 2020
 B.Tech Computer Science & Engineering, BIET
 August 2008 — May 2012
+
  	Personal Projects
 Personal projects I’ve worked on include Restaurant Search AI Chatbot with Rasa and Zomato API, Google Image Extractor, classifications and churn problems.
-	Details
-Bangalore, India
-+91 8293182119
-geeta.kumari06@outlook.com
 
 Links
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetakumari/)
