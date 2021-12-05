@@ -6,6 +6,7 @@ Accomplished Data Scientist with a passion for delivering valuable data through 
 Employment History
 	Data Analyst at IBM, Bengaluru
 	April 2019 — Present
+```	
 ●	Responsible for the development of analytics and machine learning based solutions.
 ●	Analysed how Pricing Activities overall affects retail & e-commerce business.
 ●	Worked on improving profitability by defining optimal prices and pricing strategies for a retail giant.
@@ -16,15 +17,17 @@ Employment History
 ●	Applied different algorithms and predictive models to derive insights and business value from data.
 ●	Working daily with Python, SQL and Git.
 ●	Becoming a buddy for a new team member to help them in their on-boarding process.
-
+```
 	SDET at TCS, Kolkata
 	March 2013 — April 2019
+```
 ●	Worked proactively with Product Team to understand requirements and business specifications around Retail Banking.
 ●	Involved in the development of automated test script with Rest Assured and Selenium Web Driver and TestNG.
 ●	Involved in creation of the generic utility.
 ●	Performed code reviews of peers.
 ●	Involved in design, implementation, testing and maintenance of features.
  	Education
+```
 PGD AI-ML, International Institute of Information Technology, Bangalore 
 September 2019 — October 2020
 B.Tech Computer Science & Engineering, BIET
