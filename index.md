@@ -34,7 +34,7 @@ September 2019 — October 2020*
 August 2008 — Jun 2012*
 
 #### Personal Projects
-Personal projects I’ve worked on include Restaurant Search AI Chatbot with Rasa and Zomato API, Google Image Extractor, classifications and churn problems.
+Personal projects I’ve worked on include [[Restaurant Search AI Chatbot with Rasa and Zomato API]](https://github.com/geetakumri/Foodie_Chatbot), Google Image Extractor, classifications and churn problems.
 
 ### Skills
 ```  
