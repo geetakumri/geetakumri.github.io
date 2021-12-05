@@ -3,7 +3,7 @@ I am a **Data Scientist** at [IBM](https://in.linkedin.com/company/ibm). I work 
 
 Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. Developing novel data driven solutions to solve complex data problems in retail and e-commerce. Committed to helping companies advance by helping them to develop strategic plans based on predictive modelling and findings. Bringing forth a proven track record of analysing complex data sets.
  
-## Employment History
+### Employment History
 	Data Analyst at IBM, Bengaluru
 	April 2019 — Present
 ```	
@@ -27,7 +27,7 @@ Accomplished Data Scientist with a passion for delivering valuable data through 
 ●	Performed code reviews of peers.
 ●	Involved in design, implementation, testing and maintenance of features.
 ```
-## Education
+### Education
 
 PGD AI-ML, International Institute of Information Technology, Bangalore 
 September 2019 — October 2020
@@ -37,7 +37,7 @@ August 2008 — May 2012
  	Personal Projects
 Personal projects I’ve worked on include Restaurant Search AI Chatbot with Rasa and Zomato API, Google Image Extractor, classifications and churn problems.
 
-Links
+### Links
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetakumari/)
 [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:geeta.kumari06@outlook.com)
 
