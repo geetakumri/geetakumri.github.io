@@ -31,6 +31,7 @@ Accomplished Data Scientist with a passion for delivering valuable data through 
 
 PGD AI-ML, International Institute of Information Technology, Bangalore 
 September 2019 — October 2020
+
 B.Tech Computer Science & Engineering, BIET
 August 2008 — May 2012
 
