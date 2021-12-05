@@ -38,7 +38,7 @@ geeta.kumari06@outlook.com
 Links
 [[LinkedIn]](https://in.linkedin.com/company/geetakumari)
 Skills
-  
+```  
   ★★★★☆ Python
   ★★★★☆ SQL
   ★★★☆☆ Machine Learning
@@ -51,7 +51,7 @@ Skills
   ★★★☆☆ Java
   ★★★☆☆ Microsoft Power BI
   ★★★☆☆ Leadership Skills
- 	 
+ ```	 
 
 Hobbies
 Read short stories, watch superhero movies
