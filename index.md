@@ -35,12 +35,8 @@ September 2019 — October 2020*
 *B.Tech Computer Science & Engineering, BIET
 August 2008 — Jun 2012*
 
- 	Personal Projects
+#### Personal Projects
 Personal projects I’ve worked on include Restaurant Search AI Chatbot with Rasa and Zomato API, Google Image Extractor, classifications and churn problems.
-
-### Links
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetakumari/)
-[![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:geeta.kumari06@outlook.com)
 
 Skills
 ```  
@@ -58,6 +54,6 @@ Skills
   ★★★☆☆ Leadership Skills
  ```	 
 
-Hobbies
-Read short stories, watch superhero movies
-
+### Links
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetakumari/)
+[![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:geeta.kumari06@outlook.com)
