@@ -38,9 +38,11 @@ Personal projects I’ve worked on include Restaurant Search AI Chatbot with Ras
 Bangalore, India
 +91 8293182119
 geeta.kumari06@outlook.com
+
 Links
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geetakumari/)
 [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:geeta.kumari06@outlook.com)
+
 Skills
 ```  
   ★★★★☆ Python
