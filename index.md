@@ -36,7 +36,7 @@ August 2008 — Jun 2012*
 #### Personal Projects
 Personal projects I’ve worked on include Restaurant Search AI Chatbot with Rasa and Zomato API, Google Image Extractor, classifications and churn problems.
 
-Skills
+### Skills
 ```  
   ★★★★☆ Python
   ★★★★☆ SQL
