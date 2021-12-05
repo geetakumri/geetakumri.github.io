@@ -1,8 +1,6 @@
 I am a **Data Scientist** at [IBM](https://in.linkedin.com/company/ibm). I work in a team of data analysts who develop machine learning based solutions for business problems in the e-commerce domain. Our focus areas are price variation analysis and product-to-product similarity, which is related to content enrichment in a broader sense.
 
 
-Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. Developing novel data driven solutions to solve complex data problems in retail and e-commerce. Committed to helping companies advance by helping them to develop strategic plans based on predictive modelling and findings. Bringing forth a proven track record of analysing complex data sets.
- 
 ### Employment History
 *Data Analyst at IBM, Bengaluru
 April 2019 — Present*
