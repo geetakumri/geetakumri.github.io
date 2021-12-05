@@ -38,29 +38,19 @@ geeta.kumari06@outlook.com
 Links
 [[LinkedIn]](https://in.linkedin.com/company/geetakumari)
 Skills
-Python
- 	 
-SQL
- 	 
-Machine Learning
- 	 
-Data Analysis
- 	 
-Predictive Modelling
- 	 
-Numpy
- 	 
-Pandas
- 	 
-NLP
- 	 
-GitHub
- 	 
-Java
- 	 
-Microsoft Power BI
- 	 
-Leadership Skills
+  
+  ★★★★☆ Python
+  ★★★★☆ SQL
+  ★★★☆☆ Machine Learning
+  ★★★★☆ Data Analysis
+  ★★★★☆ Predictive Modeling
+  ★★★★☆ Numpy
+  ★★★★☆ Panda
+  ★★★☆☆ NLP
+  ★★★★☆ GitHub
+  ★★★☆☆ Java
+  ★★★☆☆ Microsoft Power BI
+  ★★★☆☆ Leadership Skills
  	 
 
 Hobbies
