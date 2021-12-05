@@ -4,8 +4,8 @@ I am a **Data Scientist** at [IBM](https://in.linkedin.com/company/ibm). I work 
 Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. Developing novel data driven solutions to solve complex data problems in retail and e-commerce. Committed to helping companies advance by helping them to develop strategic plans based on predictive modelling and findings. Bringing forth a proven track record of analysing complex data sets.
  
 ### Employment History
-Data Analyst at IBM, Bengaluru
-April 2019 — Present
+*Data Analyst at IBM, Bengaluru
+April 2019 — Present*
 ```	
 ●	Responsible for the development of analytics and machine learning based solutions.
 ●	Analysed how Pricing Activities overall affects retail & e-commerce business.
@@ -18,8 +18,8 @@ April 2019 — Present
 ●	Working daily with Python, SQL and Git.
 ●	Becoming a buddy for a new team member to help them in their on-boarding process.
 ```
-	SDET at TCS, Kolkata
-	March 2013 — April 2019
+*SDET at TCS, Kolkata
+March 2013 — April 2019*
 ```
 ●	Worked proactively with Product Team to understand requirements and business specifications around Retail Banking.
 ●	Involved in the development of automated test script with Rest Assured and Selenium Web Driver and TestNG.
@@ -29,11 +29,11 @@ April 2019 — Present
 ```
 ### Education
 
-PGD AI-ML, International Institute of Information Technology, Bangalore 
-September 2019 — October 2020
+*PGD AI-ML, International Institute of Information Technology, Bangalore 
+September 2019 — October 2020*
 
-B.Tech Computer Science & Engineering, BIET
-August 2008 — May 2012
+*B.Tech Computer Science & Engineering, BIET
+August 2008 — Jun 2012*
 
  	Personal Projects
 Personal projects I’ve worked on include Restaurant Search AI Chatbot with Rasa and Zomato API, Google Image Extractor, classifications and churn problems.
